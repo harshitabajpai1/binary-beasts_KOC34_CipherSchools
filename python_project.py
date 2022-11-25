@@ -10,7 +10,7 @@ if diff.days>0:
 else:
     print('you entered wrong dates ')
 
-print('THANK YOU')        
+print('THANK YOU')      
 
 
 
